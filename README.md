@@ -5,6 +5,7 @@ Quer entrar em contato comigo da forma mais simples possível? Este projeto irá
 - Página linda e bem construída <br>
 - Praticidade. <br> <br>
 
+<img src="https://i.imgur.com/02hUx43.png" width="600px" />
 
 ## 🖥️ Tecnologias utilizadas:<br>
 ###
@@ -19,5 +20,5 @@ Quer entrar em contato comigo da forma mais simples possível? Este projeto irá
 
 ###
 
-**Link do site:** <i>[clique aqui]() <br>
+**Link do site:** <i>[clique aqui](https://lilian-carvalho25.github.io/informacoes-de-contato/) <br>
 
